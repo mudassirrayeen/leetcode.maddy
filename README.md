@@ -32,8 +32,17 @@ My Coding Journey
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
