@@ -6,6 +6,7 @@ My Coding Journey
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0053-maximum-subarray) |
@@ -26,4 +27,8 @@ My Coding Journey
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
