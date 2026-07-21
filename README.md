@@ -42,6 +42,7 @@ My Coding Journey
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -71,6 +72,7 @@ My Coding Journey
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
