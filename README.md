@@ -24,6 +24,7 @@ My Coding Journey
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
@@ -43,6 +44,7 @@ My Coding Journey
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -75,6 +77,7 @@ My Coding Journey
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
