@@ -54,6 +54,7 @@ My Coding Journey
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0234-palindrome-linked-list) |
@@ -66,6 +67,7 @@ My Coding Journey
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0234-palindrome-linked-list) |
