@@ -10,6 +10,7 @@ My Coding Journey
 | [0004-median-of-two-sorted-arrays](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0053-maximum-subarray) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/1019-next-greater-node-in-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Backtracking
 |  |
@@ -60,6 +61,7 @@ My Coding Journey
 | [0148-sort-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -79,8 +81,13 @@ My Coding Journey
 | [0020-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/1019-next-greater-node-in-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
