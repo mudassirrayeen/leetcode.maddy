@@ -10,6 +10,7 @@ My Coding Journey
 | [0004-median-of-two-sorted-arrays](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0053-maximum-subarray) |
+| [0134-gas-station](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0134-gas-station) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/1019-next-greater-node-in-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Backtracking
@@ -90,4 +91,8 @@ My Coding Journey
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/1019-next-greater-node-in-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
