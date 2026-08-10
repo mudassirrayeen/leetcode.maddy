@@ -95,4 +95,16 @@ My Coding Journey
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0134-gas-station) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
