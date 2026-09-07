@@ -26,6 +26,7 @@ My Coding Journey
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0053-maximum-subarray) |
 ## Binary Search
@@ -48,6 +49,7 @@ My Coding Journey
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0242-valid-anagram) |
@@ -77,6 +79,7 @@ My Coding Journey
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0160-intersection-of-two-linked-lists) |
@@ -127,4 +130,8 @@ My Coding Journey
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0003-longest-substring-without-repeating-characters) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
