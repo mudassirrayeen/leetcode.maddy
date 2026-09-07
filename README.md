@@ -41,6 +41,7 @@ My Coding Journey
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0002-add-two-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
@@ -56,6 +57,7 @@ My Coding Journey
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0061-rotate-list) |
@@ -66,6 +68,7 @@ My Coding Journey
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0234-palindrome-linked-list) |
