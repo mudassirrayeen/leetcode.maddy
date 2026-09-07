@@ -36,6 +36,7 @@ My Coding Journey
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0242-valid-anagram) |
 ## Math
@@ -46,6 +47,7 @@ My Coding Journey
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0242-valid-anagram) |
@@ -121,4 +123,8 @@ My Coding Journey
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
