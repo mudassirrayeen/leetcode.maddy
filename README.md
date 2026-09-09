@@ -9,6 +9,7 @@ My Coding Journey
 | [0001-two-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0134-gas-station) |
@@ -85,6 +86,7 @@ My Coding Journey
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0160-intersection-of-two-linked-lists) |
