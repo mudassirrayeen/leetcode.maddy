@@ -14,6 +14,7 @@ My Coding Journey
 | [0053-maximum-subarray](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0283-move-zeroes) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/1019-next-greater-node-in-linked-list) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -94,6 +95,7 @@ My Coding Journey
 | [0160-intersection-of-two-linked-lists](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
