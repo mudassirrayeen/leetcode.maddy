@@ -15,6 +15,7 @@ My Coding Journey
 | [0134-gas-station](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0485-max-consecutive-ones) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/1019-next-greater-node-in-linked-list) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
