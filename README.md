@@ -13,6 +13,7 @@ My Coding Journey
 | [0039-combination-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0485-max-consecutive-ones) |
@@ -148,4 +149,8 @@ My Coding Journey
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
