@@ -12,6 +12,7 @@ My Coding Journey
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0189-rotate-array) |
@@ -66,6 +67,7 @@ My Coding Journey
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -93,6 +95,7 @@ My Coding Journey
 | [0011-container-with-most-water](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0189-rotate-array) |
@@ -153,4 +156,12 @@ My Coding Journey
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0136-single-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
