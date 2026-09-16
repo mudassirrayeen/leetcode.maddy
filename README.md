@@ -15,6 +15,7 @@ My Coding Journey
 | [0075-sort-colors](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0485-max-consecutive-ones) |
@@ -31,6 +32,7 @@ My Coding Journey
 | [0004-median-of-two-sorted-arrays](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +49,7 @@ My Coding Journey
 | [0001-two-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -69,6 +72,7 @@ My Coding Journey
 | ------- |
 | [0075-sort-colors](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -164,4 +168,12 @@ My Coding Journey
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
