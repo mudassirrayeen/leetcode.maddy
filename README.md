@@ -15,6 +15,7 @@ My Coding Journey
 | [0053-maximum-subarray](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0169-majority-element) |
@@ -52,6 +53,7 @@ My Coding Journey
 | ------- |
 | [0001-two-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0242-valid-anagram) |
@@ -186,4 +188,8 @@ My Coding Journey
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
