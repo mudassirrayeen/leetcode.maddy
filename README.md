@@ -13,6 +13,7 @@ My Coding Journey
 | [0031-next-permutation](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0128-longest-consecutive-sequence) |
@@ -53,6 +54,7 @@ My Coding Journey
 | ------- |
 | [0001-two-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0169-majority-element) |
@@ -192,4 +194,8 @@ My Coding Journey
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
