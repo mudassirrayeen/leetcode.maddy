@@ -12,6 +12,7 @@ My Coding Journey
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0075-sort-colors) |
@@ -65,6 +66,7 @@ My Coding Journey
 | [0002-add-two-numbers](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0189-rotate-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
@@ -197,5 +199,6 @@ My Coding Journey
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
