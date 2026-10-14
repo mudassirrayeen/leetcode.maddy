@@ -11,6 +11,7 @@ My Coding Journey
 | [0011-container-with-most-water](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0053-maximum-subarray) |
@@ -53,6 +54,7 @@ My Coding Journey
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
