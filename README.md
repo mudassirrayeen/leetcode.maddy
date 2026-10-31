@@ -63,6 +63,7 @@ My Coding Journey
 | [0033-search-in-rotated-sorted-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0162-find-peak-element) |
@@ -86,6 +87,7 @@ My Coding Journey
 | [0007-reverse-integer](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0189-rotate-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
@@ -226,4 +228,8 @@ My Coding Journey
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0560-subarray-sum-equals-k) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
