@@ -102,6 +102,7 @@ My Coding Journey
 | [0020-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/1021-remove-outermost-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +150,7 @@ My Coding Journey
 | [0032-longest-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/1019-next-greater-node-in-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/1021-remove-outermost-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
@@ -236,4 +238,8 @@ My Coding Journey
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0069-sqrtx) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
