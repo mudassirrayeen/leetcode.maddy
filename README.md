@@ -120,6 +120,7 @@ My Coding Journey
 | [0061-rotate-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0876-middle-of-the-linked-list) |
@@ -130,6 +131,7 @@ My Coding Journey
 | [0002-add-two-numbers](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
