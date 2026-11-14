@@ -28,7 +28,6 @@ public:
             if(l2 !=NULL){
                 l2=l2->next;
             }
-           
         }
         return ans->next;
     }
