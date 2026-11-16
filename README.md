@@ -20,6 +20,7 @@ My Coding Journey
 | [0054-spiral-matrix](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0128-longest-consecutive-sequence) |
@@ -44,6 +45,7 @@ My Coding Journey
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -219,6 +221,7 @@ My Coding Journey
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0136-single-number) |
 ## Quicksort
 |  |
