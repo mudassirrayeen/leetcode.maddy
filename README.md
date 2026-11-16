@@ -23,6 +23,7 @@ My Coding Journey
 | [0073-set-matrix-zeroes](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@ My Coding Journey
 | [0040-combination-sum-ii](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0090-subsets-ii) |
 ## Divide and Conquer
 |  |
@@ -113,6 +115,7 @@ My Coding Journey
 | [0008-string-to-integer-atoi](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/1021-remove-outermost-parentheses) |
@@ -201,6 +204,7 @@ My Coding Journey
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
@@ -261,6 +265,7 @@ My Coding Journey
 | [0048-rotate-image](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0079-word-search) |
 ## Prefix Sum
 |  |
 | ------- |
