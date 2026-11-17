@@ -54,6 +54,7 @@ My Coding Journey
 | [0078-subsets](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0131-palindrome-partitioning) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,6 +69,7 @@ My Coding Journey
 | [0032-longest-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0131-palindrome-partitioning) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@ My Coding Journey
 | [0020-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/mudassirrayeen/leetcode.maddy/tree/master/1021-remove-outermost-parentheses) |
